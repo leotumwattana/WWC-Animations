@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController, BeeCircleDelegate {
+class ExamplesViewController: UIViewController, BeeCircleDelegate {
     
     // ==================
     // MARK: - Properties
